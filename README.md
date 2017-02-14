@@ -1,17 +1,18 @@
 # README libIEC61850
 
-This file is part of the documentation of **libIEC61850**. More documentation can be found online at http://libiec61850.com or in the provided doxygen documentation. Also consider to review the examples to understand how to use the library
+This file is part of the documentation of **libIEC61850**. More documentation can be found online at http://libiec61850.com or in the provided doxygen documentation. Also consider to review the examples to understand how to use the library.
 
 Content:
 
 * Overview
-* Building and running the examples
+* Building and running the examples with the provided makefiles
 * Installing the library and the API headers
 * Building on Windows with GOOSE support
 * Building with the cmake build script
 * Using the log service with sqlite
 * C# API
-* Licensing
+* Experimental Python bindings
+* Commercial licenses and support
 * Contributing
 * Third-party contributions
 
